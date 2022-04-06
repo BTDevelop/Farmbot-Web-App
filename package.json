@@ -62,7 +62,7 @@
     "lodash": "4.17.10",
     "markdown-it": "^8.4.0",
     "markdown-it-emoji": "^1.4.0",
-    "moment": "2.22.2",
+    "moment": "2.29.2",
     "moxios": "^0.4.0",
     "node-sass": "4.9.2",
     "optimize-css-assets-webpack-plugin": "5.0.0",
