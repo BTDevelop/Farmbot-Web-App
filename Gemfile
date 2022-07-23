@@ -25,7 +25,7 @@ gem "rollbar"
 gem "scenic"
 gem "secure_headers"
 gem "skylight"
-gem "tzinfo" # For validation of user selected timezone names
+gem "tzinfo" , ">= 1.2.10" # For validation of user selected timezone names
 gem "valid_url"
 gem "webpack-rails"
 # Still working out the bugs. - RC 5 Jul 18
