@@ -45,7 +45,7 @@ group :development, :test do
   gem "pry-rails"
   gem "pry"
   gem "rails-erd"
-  gem "rspec-rails"
+  gem "rspec-rails", ">= 8.0.0"
   gem "rspec"
   gem "selenium-webdriver"
   gem "simplecov"
