@@ -37,7 +37,7 @@ group :development, :test do
   gem "capybara"
   gem "codecov", require: false
   gem "database_cleaner"
-  gem "factory_bot_rails"
+  gem "factory_bot_rails", ">= 6.5.0"
   gem "faker"
   gem "hashdiff"
   gem "letter_opener"
