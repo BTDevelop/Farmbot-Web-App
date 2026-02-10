@@ -8,7 +8,7 @@ gem "delayed_job"
 gem "devise"
 gem "discard"
 gem "figaro"
-gem "fog-google"
+gem "fog-google", ">= 1.16.0"
 gem "font-awesome-rails"
 gem "foreman"
 gem "jwt"
@@ -29,7 +29,7 @@ gem "tzinfo" # For validation of user selected timezone names
 gem "valid_url"
 gem "webpack-rails"
 # Still working out the bugs. - RC 5 Jul 18
-gem "rabbitmq_http_api_client"
+gem "rabbitmq_http_api_client", ">= 3.0.0"
 gem "zero_downtime_migrations"
 
 group :development, :test do
